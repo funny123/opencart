@@ -1,0 +1,29 @@
+<div class="buttons">
+  <div class="pull-right">
+    <input type="button" value="{{ button_confirm }}" id="button-confirm" class="btn btn-primary" data-loading-text="{{ text_loading }}" />
+  </div>
+</div>
+<link href="//cdn.bootcss.com/layer/3.1.0/theme/default/layer.css" rel="stylesheet">
+<script src="//cdn.bootcss.com/layer/3.1.0/layer.js"></script>
+<script type="text/javascript"><!--
+    $('#button-confirm').on('click', function() {
+        $.ajax({
+					type: 'get',
+					url: 'index.php?route=extension/payment/wechat/confirm',
+					cache: false,
+					beforeSend: function() {
+						$('#button-confirm').button('loading');
+					},
+					complete: function() {
+						$('#button-confirm').button('reset');
+					},
+					success: function(res) {
+						if (res.status) {
+							location = res.url;
+						}
+					}
+				});
+    });
+
+
+//--></script>

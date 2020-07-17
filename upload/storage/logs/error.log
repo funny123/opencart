@@ -1,0 +1,55 @@
+2020-07-15 10:38:09 - PHP Notice:  Undefined index: token in /www/wwwroot/opencart.test/upload/admin/controller/extension/payment/ali.php on line 49
+2020-07-15 10:38:09 - PHP Notice:  Undefined index: token in /www/wwwroot/opencart.test/upload/admin/controller/extension/payment/ali.php on line 54
+2020-07-15 10:38:09 - PHP Notice:  Undefined index: token in /www/wwwroot/opencart.test/upload/admin/controller/extension/payment/ali.php on line 59
+2020-07-15 10:38:09 - PHP Notice:  Undefined index: token in /www/wwwroot/opencart.test/upload/admin/controller/extension/payment/ali.php on line 62
+2020-07-15 10:38:09 - PHP Notice:  Undefined index: token in /www/wwwroot/opencart.test/upload/admin/controller/extension/payment/ali.php on line 64
+2020-07-15 12:27:32 - PHP Notice:  Undefined index: token in /www/wwwroot/opencart.test/upload/admin/controller/extension/payment/wechat.php on line 49
+2020-07-15 12:27:32 - PHP Notice:  Undefined index: token in /www/wwwroot/opencart.test/upload/admin/controller/extension/payment/wechat.php on line 54
+2020-07-15 12:27:32 - PHP Notice:  Undefined index: token in /www/wwwroot/opencart.test/upload/admin/controller/extension/payment/wechat.php on line 59
+2020-07-15 12:27:32 - PHP Notice:  Undefined index: token in /www/wwwroot/opencart.test/upload/admin/controller/extension/payment/wechat.php on line 62
+2020-07-15 12:27:32 - PHP Notice:  Undefined index: token in /www/wwwroot/opencart.test/upload/admin/controller/extension/payment/wechat.php on line 64
+2020-07-16 1:49:46 - PHP Notice:  Undefined index: token in /www/wwwroot/opencart.test/upload/admin/controller/extension/payment/wechat.php on line 20
+2020-07-16 2:41:48 - PHP Warning:  unlink(/www/wwwroot/opencart.test/upload/storage/cache/cache.catalog.language.1594870908): No such file or directory in /www/wwwroot/opencart.test/upload/system/library/cache/file.php on line 68
+2020-07-16 2:43:10 - PHP Warning:  unlink(/www/wwwroot/opencart.test/upload/storage/cache/cache.catalog.language.1594870990): No such file or directory in /www/wwwroot/opencart.test/upload/system/library/cache/file.php on line 68
+2020-07-16 2:48:08 - PHP Notice:  Undefined index: CNY in /www/wwwroot/opencart.test/upload/system/library/cart/currency.php on line 25
+2020-07-16 2:48:08 - PHP Notice:  Undefined index: CNY in /www/wwwroot/opencart.test/upload/system/library/cart/currency.php on line 26
+2020-07-16 2:48:08 - PHP Notice:  Undefined index: CNY in /www/wwwroot/opencart.test/upload/system/library/cart/currency.php on line 27
+2020-07-16 2:48:08 - PHP Notice:  Undefined index: CNY in /www/wwwroot/opencart.test/upload/system/library/cart/currency.php on line 30
+2020-07-16 2:48:08 - PHP Unknown:  The each() function is deprecated. This message will be suppressed on further calls in /www/wwwroot/opencart.test/upload/catalog/model/extension/payment/alipay_cross.php on line 131
+2020-07-16 2:48:08 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /www/wwwroot/opencart.test/upload/catalog/model/extension/payment/alipay_cross.php on line 124
+2020-07-16 6:02:21 - PHP Notice:  Undefined index:  in /www/wwwroot/opencart.test/upload/system/library/cart/currency.php on line 25
+2020-07-16 6:02:21 - PHP Notice:  Undefined index:  in /www/wwwroot/opencart.test/upload/system/library/cart/currency.php on line 26
+2020-07-16 6:02:21 - PHP Notice:  Undefined index:  in /www/wwwroot/opencart.test/upload/system/library/cart/currency.php on line 27
+2020-07-16 6:02:21 - PHP Notice:  Undefined index:  in /www/wwwroot/opencart.test/upload/system/library/cart/currency.php on line 30
+2020-07-16 7:10:45 - PHP Warning:  unlink(/www/wwwroot/opencart.test/upload/storage/cache/cache.catalog.language.1594887045): No such file or directory in /www/wwwroot/opencart.test/upload/system/library/cache/file.php on line 68
+2020-07-16 7:25:22 - PHP Notice:  Undefined index: CNY in /www/wwwroot/opencart.test/upload/system/library/cart/currency.php on line 25
+2020-07-16 7:25:22 - PHP Notice:  Undefined index: CNY in /www/wwwroot/opencart.test/upload/system/library/cart/currency.php on line 26
+2020-07-16 7:25:22 - PHP Notice:  Undefined index: CNY in /www/wwwroot/opencart.test/upload/system/library/cart/currency.php on line 27
+2020-07-16 7:25:22 - PHP Notice:  Undefined index: CNY in /www/wwwroot/opencart.test/upload/system/library/cart/currency.php on line 30
+2020-07-16 7:25:22 - PHP Warning:  openssl_sign(): supplied key param cannot be coerced into a private key in /www/wwwroot/opencart.test/upload/catalog/model/extension/payment/alipay.php on line 207
+2020-07-17 7:10:55 - PHP Notice:  Undefined index: wechat_merchant_id in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 61
+2020-07-17 7:10:55 - PHP Notice:  Undefined index: wechat_authentication_code in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 61
+2020-07-17 7:10:55 - PHP Notice:  Undefined index: wechat_merchant_id in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 76
+2020-07-17 7:10:55 - PHP Notice:  Undefined index: wechat_authentication_code in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 77
+2020-07-17 7:11:06 - PHP Notice:  Undefined index: wechat_merchant_id in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 61
+2020-07-17 7:11:06 - PHP Notice:  Undefined index: wechat_authentication_code in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 61
+2020-07-17 7:11:06 - PHP Notice:  Undefined index: wechat_merchant_id in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 76
+2020-07-17 7:11:06 - PHP Notice:  Undefined index: wechat_authentication_code in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 77
+2020-07-17 7:11:21 - PHP Notice:  Undefined index: wechat_merchant_id in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 61
+2020-07-17 7:11:21 - PHP Notice:  Undefined index: wechat_authentication_code in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 61
+2020-07-17 7:11:21 - PHP Notice:  Undefined index: wechat_merchant_id in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 76
+2020-07-17 7:11:21 - PHP Notice:  Undefined index: wechat_authentication_code in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 77
+2020-07-17 7:50:50 - PHP Notice:  Undefined index: ali_merchant_id in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/ali.php on line 55
+2020-07-17 7:50:50 - PHP Notice:  Undefined index: ali_authentication_code in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/ali.php on line 55
+2020-07-17 7:50:50 - PHP Notice:  Undefined index: ali_merchant_id in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/ali.php on line 58
+2020-07-17 7:50:50 - PHP Notice:  Undefined index: ali_authentication_code in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/ali.php on line 59
+2020-07-17 7:50:52 - PHP Notice:  Undefined index: ali_merchant_id in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/ali.php on line 55
+2020-07-17 7:50:52 - PHP Notice:  Undefined index: ali_authentication_code in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/ali.php on line 55
+2020-07-17 7:50:52 - PHP Notice:  Undefined index: ali_merchant_id in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/ali.php on line 58
+2020-07-17 7:50:52 - PHP Notice:  Undefined index: ali_authentication_code in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/ali.php on line 59
+2020-07-17 7:51:01 - PHP Notice:  Undefined index: ali_merchant_id in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/ali.php on line 55
+2020-07-17 7:51:01 - PHP Notice:  Undefined index: ali_authentication_code in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/ali.php on line 55
+2020-07-17 7:51:01 - PHP Notice:  Undefined index: ali_merchant_id in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/ali.php on line 58
+2020-07-17 7:51:01 - PHP Notice:  Undefined index: ali_authentication_code in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/ali.php on line 59
+2020-07-17 8:16:43 - PHP Notice:  Undefined index: payment_ali_shop_url in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 84
+2020-07-17 8:16:43 - PHP Notice:  Undefined index: payment_ali_shop_url in /www/wwwroot/opencart.test/upload/catalog/controller/extension/payment/wechat.php on line 85
